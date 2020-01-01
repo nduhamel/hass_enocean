@@ -1,0 +1,10 @@
+{
+  "domain": "enocean",
+  "name": "Enocean",
+  "documentation": "https://www.home-assistant.io/integrations/enocean",
+  "requirements": [
+    "git@github.com:nduhamel/enocean.git@d4b2e47231e732cb61551b660da68259cb58b5e5#egg=enocean"
+  ],
+  "dependencies": [],
+  "codeowners": ["@nduhamel"]
+}
